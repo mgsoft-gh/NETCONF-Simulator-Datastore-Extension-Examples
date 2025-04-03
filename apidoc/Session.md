@@ -6,6 +6,13 @@ The interface represents a session that is a source of a triggered event.
 
 ## Public methods
 
+### public java.lang.String getSessionId()
+
+
+Returns NETCONF session ID. 
+
+
+**Returned Value:** Session ID or null.
 
 ### public java.lang.String getClientIP()
 
