@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains an official example for the **MG-SOFT NETCONF Simulator Datastore Extension**. The **MG-SOFT NETCONF Simulator Datastore Extension API** is a Java interface that enables users to program live behaviors of NETCONF/RESTCONF/gNMI servers simulated using the [**MG-SOFT NETCONF Simulator application**](https://www.mg-soft.si/mgNetConfSimulator.html). API documentation is available in this repository ([link](apidoc)). You can examine, play with or adapt from this example to create your own extension. 
+This repository contains an official example for the **MG-SOFT NETCONF Simulator Datastore Extension**. The **MG-SOFT NETCONF Simulator Datastore Extension API** is a Java interface that enables users to program live behaviors of NETCONF/RESTCONF/gNMI servers simulated using the [**MG-SOFT NETCONF Simulator application**](https://www.mg-soft.si/mgNetConfSimulator.html). API documentation is available in this repository ([link](https://github.com/mgsoft-gh/NETCONF-Simulator-Datastore-Extension-API)). You can examine, play with or adapt from this example to create your own extension. 
 
 > [!NOTE]
 >
