@@ -18,8 +18,8 @@ This repository contains an official example for the **MG-SOFT NETCONF Simulator
 ## Getting Started
 
 This example project contains the following files:
-* [DatastoreExampleIETFInterfaces.java](src/main/java/com/mgsoft/netconfsimulator/examples/interfaces/InterfacesDatastoreTraffic.java),
-* [ObjectStorage.java](src/main/java/com/mgsoft/netconfsimulator/examples/interfaces/InterfacesDatastoreTraffic.java) and 
+* [DatastoreExampleIETFInterfaces.java](src/main/java/com/mgsoft/netconfsimulator/examples/interfaces/DatastoreExampleIETFInterfaces.java),
+* [ObjectStorage.java](src/main/java/com/mgsoft/netconfsimulator/examples/common/ObjectStorage.java) and 
 * [pom.xml](pom.xml).
 
 ### Dependencies
